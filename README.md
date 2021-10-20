@@ -7,7 +7,7 @@ In this repo you can found the next items:
 - [Test cases of System user](https://github.com/eyparra-qa/qa-challenge-monstarlab/blob/main/chatter_user_system.feature)
 3. One folder with one example of the Unit test, inside this folder you can found another Readme related to the Unit test template
 4. One automation project with 4 test cases.
-- 3 of them are related to the UI and the another one is realted to the API
+- 3 of them are related to the UI and the another one is realted to the API - the test artifact was "https://www.demoblaze.com/index.html"
 
 ## Execution evidence:
 
